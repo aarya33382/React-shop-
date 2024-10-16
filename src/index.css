@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.border-b{
+
+  @apply border-2 border-blue-700
+}
+.border-g{
+  @apply border-2 border-green-700
+}
+
+.border-y{
+  @apply border-2 border-yellow-500
+}
+
+.border-r{
+  @apply border-2 border-red-700
+}
+
+.border{
+  @apply border-2 border-black
+}
+
+.border-v{
+@apply border-2 border-violet-800
+}
